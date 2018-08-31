@@ -13,3 +13,7 @@ All the rights belong to the world
 ## Contribute
 
 One can fork the repository and then pull the changes occasionally
+
+## Vote of Thanks
+
+To all those developers and the eco-system
